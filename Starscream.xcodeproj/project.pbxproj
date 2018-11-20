@@ -188,11 +188,7 @@
 			attributes = {
 				LastSwiftMigration = 0700;
 				LastSwiftUpdateCheck = 0700;
-<<<<<<< Updated upstream
-				LastUpgradeCheck = 0940;
-=======
 				LastUpgradeCheck = 1010;
->>>>>>> Stashed changes
 				ORGANIZATIONNAME = Vluxe;
 				TargetAttributes = {
 					335FA1F41F5DF71D00F6D2EC = {
