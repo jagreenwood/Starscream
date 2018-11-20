@@ -195,6 +195,7 @@
 						LastSwiftMigration = 0900;
 					};
 					33CCF0841F5DDC030099B092 = {
+						LastSwiftMigration = 1010;
 						ProvisioningStyle = Manual;
 					};
 				};
